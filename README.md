@@ -9,8 +9,8 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhaoisonwork&theme=dark&background=333333)](https://github.com/Zhaoisonwork)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhaoisonwork&theme=dark&background=2d2d2d)](https://github.com/Zhaoisonwork)
+![Full Metrics](https://metrics.lecoq.io/Zhaoisonwork?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
+![Lines and Activity](https://metrics.lecoq.io/Zhaoisonwork?plugin_lines=yes&plugin_activity=yes&config.timezone=Asia%2FShanghai)
 
 You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
