@@ -9,10 +9,7 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-[![Zhao's Stats](https://github-readme-stats.vercel.app/api?username=Zhaoisonwork&show_icons=true&theme=transparent&title_color=ffffff&text_color=a9a9a9&bg_color=0,00000000)](https://github.com/Zhaoisonwork)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhaoisonwork&layout=compact&theme=transparent&title_color=ffffff&text_color=a9a9a9&bg_color=0,00000000)](https://github.com/Zhaoisonwork)
-
+![Full Metrics](https://metrics.lecoq.io/Zhaoisonwork?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
 You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
 visitors! Thank you!!!!
