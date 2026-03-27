@@ -9,8 +9,13 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-![Full Metrics](https://metrics.lecoq.io/Zhaoisonwork?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
-![Lines and Activity](https://metrics.lecoq.io/Zhaoisonwork?plugin_lines=yes&plugin_activity=yes&config.timezone=Asia%2FShanghai)
+![Commits](https://img.shields.io/github/commit-activity/m/Zhaoisonwork/my-resume?style=flat-square&color=blue&label=Commits)
+
+![Top Language](https://img.shields.io/github/languages/top/Zhaoisonwork/my-resume?style=flat-square&color=orange)
+
+![Code Size](https://img.shields.io/github/languages/code-size/Zhaoisonwork/my-resume?style=flat-square&color=green)
+
+![Last Commit](https://img.shields.io/github/last-commit/Zhaoisonwork/my-resume?style=flat-square&color=rebeccapurple)
 
 You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
