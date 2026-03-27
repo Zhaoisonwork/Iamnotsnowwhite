@@ -9,8 +9,25 @@
   - Linkedin: www.linkedin.com/in/zhaoguo-wei-282473306
     
 ## Zhao's GitHub Stats
-![Full Metrics](https://metrics.lecoq.io/Zhaoisonwork?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FShanghai)
-You are my：
+const stats = [
+  { label: 'Commits', value: '340+', color: '#2ecc71' },
+  { label: 'Projects', value: '12', color: '#3498db' },
+  { label: 'Experience', value: '2 Years', color: '#9b59b6' }
+];
+
+return (
+  <div style={{ display: 'flex', gap: '20px', justifyContent: 'center', marginTop: '40px' }}>
+    {stats.map(stat => (
+      <div key={stat.label} style={{ textAlign: 'center', borderBottom: `2px solid ${stat.color}`, padding: '10px 20px' }}>
+        <div style={{ fontSize: '0.8rem', color: '#aaa', textTransform: 'uppercase' }}>{stat.label}</div>
+        <div style={{ fontSize: '1.5rem', fontWeight: 'bold', color: '#fff' }}>{stat.value}</div>
+      </div>
+    ))}
+  </div>
+);
+
+
+## You are my：
 ![Visitor Count](https://count.getloli.com/get/@Zhaoisonwork?theme=moebooru)
 visitors! Thank you!!!!
 
